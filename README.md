@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/c7/0a/a8/c70aa87863bd67e549994a41ca0830c7.jpg)
+![MasterHead](https://i.pinimg.com/564x/c7/0a/a8/c70aa87863bd67e549994a41ca0830c7.jpg)
 <h1 align="center">Hi 👋, I'm Birkan Canakcioglu</h1>
 <h3 align="center">Data Scientist</h3>
 
